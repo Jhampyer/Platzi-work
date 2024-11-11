@@ -5,3 +5,5 @@ Tengo 20 años y estudio data science
 Soy un platzinauta! Buenas noches
 
 cabecera GitHub
+
+titulo desde laptop
