@@ -6,4 +6,6 @@ Soy un platzinauta! Buenas noches
 
 cabecera GitHub
 
+Vim añadido
+
 titulo desde laptop
